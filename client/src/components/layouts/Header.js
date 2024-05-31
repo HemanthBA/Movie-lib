@@ -4,7 +4,7 @@ import myImage from '../../images/mak1.jpg';
 
 
 const Header = () => {
-    return <MainContainer><h1>Welcome To Movie Library App</h1></MainContainer>;
+    return <MainContainer><h1>Welcome To Movie Library </h1></MainContainer>;
     
 };
 
@@ -23,10 +23,10 @@ background-position: center;
     
     h1{
         transform:translate(-50%,-50%);
-        color:#fff;
-        font-weight:900;
+        color:#f4a460;
+        font-weight:800;
         position:absolute;
-        top:25%;
+        top:45%;
         left:50%
     }
 `;
