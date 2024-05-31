@@ -15,6 +15,8 @@ This is web based movie search applications ,This web application is having foll
 - Create Playlist from the List Of Movies
 - Remove Movie from the playlist
 - Public list and private list
+- public list can access by anyone
+- to access private list you need admin code("3215")
 <br/>
 
 
@@ -43,6 +45,7 @@ This is web based movie search applications ,This web application is having foll
 - The moment you are loggedin,you will be prompted to new routes that is movie.
 - From this routes,one can search movie and create playlist from the list of movies.
 - Created playlist can be seen by the loggedin user.
+- for seeing private list you admin key {3215}
 
 <br/>
 
