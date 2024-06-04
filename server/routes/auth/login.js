@@ -19,8 +19,6 @@ app.use(cors(
 	}
 ));
 
-
-
 router.use(bodyParser.urlencoded({extended: true}))
 
 
